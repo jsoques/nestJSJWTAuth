@@ -1,0 +1,3 @@
+jwt:
+    expiresIn: 36000
+    secret: '9347fb8321538c7732fbd6'
